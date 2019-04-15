@@ -1,0 +1,80 @@
+.menu {
+	text-align: right;
+	margin: 20px;
+
+}
+
+.menu-button {
+	display: inline;
+	margin: 5px;
+	
+}
+
+
+
+#sign {
+	color: white;
+	background-color: rgba(76, 125, 250);
+	font-size: 16px;
+	font-weight: bold;
+	padding: 10px 10px;
+	
+}
+
+.search {
+	text-align: center;
+}
+
+.search-button {
+	margin: 20px;
+	padding: 10px;
+}
+
+.button {
+	padding: 20px;
+	background-color: blue;
+}
+
+.bottom-one {
+	margin-top: 200px;
+	background-color: rgb(235, 235, 235);
+	padding: 1px;
+	border: 1px solid lightgrey;
+}
+
+.bottom-second {
+	background-color: rgb(235, 235, 235);
+	padding: 15px;
+	height: 20px;
+}
+
+.bottom-left {
+	display: inline;
+	float: left;
+	
+
+}
+
+.bottom-right {
+	float: right;
+	
+}
+
+#bottom-left{
+
+}
+
+#bottom-right {
+	display: inline;
+	;
+}
+
+h1 {
+	font-size: 86px;
+	text-align: center ;
+	margin-top: 150px;
+}
+
+p {
+	font-size: 14px;
+}
